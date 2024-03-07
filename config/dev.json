@@ -1,4 +1,8 @@
 {
     "port" : 8080,
-    "db_url" : ""
-} 
+    "db_name" : "todo_application",
+    "db_username" : "root",
+    "db_password" : "root",
+    "db_dialect" : "mysql",
+    "db_host" : "localhost"
+}  
